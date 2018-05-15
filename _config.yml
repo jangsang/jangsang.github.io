@@ -5,8 +5,8 @@ highlighter:      rouge
 # Setup
 title:            JangSang
 tagline:          'My life is rosy'
-description:      'The <a href="http://hyde.getpoole.com" target="_blank">Hyde</a> theme for <a href="http://jekyllrb.com" target="_blank">Jekyll</a>, refreshed.'
-url:              https://fongandrew.github.io/hydeout
+description:      'My <a href="http://weibo.com/u/2998212693" target="_blank">Life</a> is <a href="http://www.loonatheworld.com" target="_blank">rosy.'
+url:              #https://fongandrew.github.io/hydeout
 baseurl:          # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
                   # If you want to move just the blog index pages but keep
